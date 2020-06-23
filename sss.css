@@ -1,0 +1,29 @@
+﻿p
+{
+margin-left:40px;
+font-family:arial;
+font-style: obligue;
+font-size: 16px;
+}
+a:link
+{
+color: green;
+ text-decoration: none;
+}
+a:visited
+{
+color: blue;
+ text-decoration: none;
+}
+a:hover
+{
+color: red;
+text-decoration: underline;
+
+}
+a:active
+{
+color: yellow;
+text-decoration: underline;
+background-color: hotpink;
+}
